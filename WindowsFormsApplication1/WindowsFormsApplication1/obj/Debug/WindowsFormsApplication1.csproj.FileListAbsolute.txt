@@ -1,0 +1,100 @@
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ml-IN\WindowsFormsApplication1.resources.dll
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.ml-IN.resources
+Z:\Группа 4 ИС9-1\Котов\демоэкз\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ml-IN\WindowsFormsApplication1.resources.dll
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ml-IN\WindowsFormsApplication1.resources.dll
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.ml-IN.resources
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ml-IN\WindowsFormsApplication1.resources.dll
+Z:\Группа 3ИС11-3\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ml-IN\WindowsFormsApplication1.resources.dll
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.ml-IN.resources
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Папков\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ml-IN\WindowsFormsApplication1.resources.dll
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ml-IN\WindowsFormsApplication1.resources.dll
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.ml-IN.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ml-IN\WindowsFormsApplication1.resources.dll
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form11.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form12.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form13.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form14.resources
+C:\Users\student\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form15.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ml-IN\WindowsFormsApplication1.resources.dll
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ml-IN\WindowsFormsApplication1.resources.dll
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Autorisation.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SkladFurnitur.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Izdelie.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ZakaznieIzdelia.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Zakaz.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.VneshniyVid.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.zakupka.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.konstruktor.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.registration.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tkan.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TkanIzdelia.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SkladTkani.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Furnitura.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FurnituraIzdelia.resources
+C:\Users\User9\Desktop\1111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.ml-IN.resources
